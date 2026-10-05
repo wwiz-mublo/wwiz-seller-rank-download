@@ -2,6 +2,9 @@
 
 네이버 쇼핑 상품 순위·가격비교 판매처 순위를 내 PC에서 추적하는 Windows 프로그램입니다.
 
+- 📥 [설치 가이드](docs/install-guide.md) — 내려받기, 설치, 업데이트, 제거, 문제 해결
+- 📖 [사용 가이드](docs/user-guide.md) — 처음 설정, 키워드·상품·가격비교 추적, 알림, 인기 키워드
+
 ## 내려받기
 
 **[WwizSellerRank-Setup.exe 내려받기](https://github.com/wwiz-mublo/wwiz-seller-rank-download/releases/latest/download/WwizSellerRank-Setup.exe)**
